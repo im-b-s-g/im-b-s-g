@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brahm Gaur</h1>
 <h3 align="center">A Computer Science student at Graphic Era Hill University. I specialize in full-stack development and have hands-on experience.</h3>
 
-<div style="padding:2rem;">
+<div style="padding:2rem">
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFiY2w2Mm0wNm45aTI2b2ZkeGdxaGpjdTh5amJodGN4Y3k0cnF0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Imbsg&label=Profile%20views&color=0e75b6&style=flat" alt="imbsg" /> </p>
