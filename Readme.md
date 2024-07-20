@@ -1,3 +1,4 @@
+![logo](https://github.com/im-b-s-g/im-b-s-g/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Brahm Gaur</h1>
 <h3 align="center">A Computer Science student at Graphic Era Hill University. I specialize in full-stack development and have hands-on experience.</h3>
 
