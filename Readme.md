@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brahm-gaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brahm-gaur" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/im-b-s-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="im-b-s-g" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Imbsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="im-b-s-g" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/brahmgaur17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="brahmgaur17" height="30" width="40" /></a>
 </p>
 
@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-b-s-g&show_icons=true&locale=en&layout=compact" alt="imbsg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imbsg&" alt="imbsg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-b-s-g&" alt="imbsg" /></p>
