@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Imbsg&label=Profile%20views&color=0e75b6&style=flat" alt="imbsg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imbsg" alt="imbsg" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-b-s-g" alt="imbsg" /></a> </p>
 
 - 🔭 I’m currently working on [Tenent](https://github.com/im-b-s-g/Tenent.git)
 
