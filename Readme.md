@@ -17,10 +17,3 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1A6lwS2F55eo_PEmMP29rLdqCqSypgrqv/view?usp=drive_link](https://drive.google.com/file/d/1J3gofDMMoAh54yKE4e02iRKzg7tJTOmn/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<h3 align="left">Languages and Tools:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-b-s-g&show_icons=true&locale=en&layout=compact" alt="imbsg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-b-s-g&" alt="imbsg" /></p>
