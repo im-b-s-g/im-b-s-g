@@ -9,17 +9,13 @@
 <br>
 
 
-- 🔭 I’m currently working on [Tenent](https://github.com/im-b-s-g/Tenent.git)
-
 - 🌱 I’m currently Developing **Problem Solving and Solution Building**
 
 - 👯 I’m looking to collaborate on [Hack_Academia](https://github.com/im-b-s-g/hackAcademiaClient.git)
 
-- 🤝 I’m looking for help with [Tenent](https://github.com/im-b-s-g/Tenent.git)
-
 - 📫 How to reach me **Brahmgaur17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1A6lwS2F55eo_PEmMP29rLdqCqSypgrqv/view?usp=drive_link](https://drive.google.com/file/d/1A6lwS2F55eo_PEmMP29rLdqCqSypgrqv/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1A6lwS2F55eo_PEmMP29rLdqCqSypgrqv/view?usp=drive_link](https://drive.google.com/file/d/1J3gofDMMoAh54yKE4e02iRKzg7tJTOmn/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
